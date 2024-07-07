@@ -29,13 +29,15 @@ EXPLODE is a federated music streaming platform designed to provide a seamless a
 
 1. **Clone the Repository**
 
-   ``` git clone https://github.com/Explode-Media-Group/EXPLODE-Android.git ```
+   ```
+   git clone https://github.com/Explode-Media-Group/EXPLODE-Android.git
+   ```
 
-2. **Open in Android Studio**
+3. **Open in Android Studio**
    - Launch Android Studio.
    - Open the cloned project directory.
 
-3. **Build and Run**
+4. **Build and Run**
    - Connect your Android device or launch an emulator.
    - Click on the "Run" button in Android Studio to build and install the app on your device.
   
